@@ -1,0 +1,421 @@
+Text,Keyword,Color,Emotion,Sentiment
+ I'm feeling joyful today.,joyful,Yellow,Happiness,Positive
+She was contented with her life.,contented,Yellow,Happiness,Positive
+He was cheerful despite the rain.,cheerful,Yellow,Happiness,Positive
+The children were merry as they played in the park.,merry,Yellow,Happiness,Positive
+ I'm pleased to hear that you're doing well.,pleased,Yellow,Happiness,Positive
+They were delighted with the news.,delighted,Yellow,Happiness,Positive
+The audience was ecstatic after the performance.,ecstatic,Yellow,Happiness,Positive
+He was elated to receive the award.,elated,Yellow,Happiness,Positive
+She was glad to see her old friend again.,glad,Yellow,Happiness,Positive
+The team was jubilant after winning the championship.,jubilant,Yellow,Happiness,Positive
+The atmosphere was lively at the party.,lively,Yellow,Happiness,Positive
+The couple was overjoyed to hear that they were expecting a baby.,overjoyed,Yellow,Happiness,Positive
+The students were peaceful as they meditated.,peaceful,Yellow,Happiness,Positive
+The weather was pleasant for a picnic.,pleasant,Yellow,Happiness,Positive
+ The guests were satisfied with the food and service,satisfied,Yellow,Happiness,Positive
+The family was thrilled to be going on vacation.,thrilled,Yellow,Happiness,Positive
+The employees were upbeat about the new project,upbeat,Yellow,Happiness,Positive
+The baby was blessed with good health.,blessed,Yellow,Happiness,Positive
+The bride was blithe on her wedding day.,blithe,Yellow,Happiness,Positive
+The team was buoyant after their victory.,buoyant,Yellow,Happiness,Positive
+The children were chipper as they sang songs.,chipper,Yellow,Happiness,Positive
+The couple was convivial as they chatted with friends.,convivial,Yellow,Happiness,Positive
+ The students were euphoric after acing their exams.,euphoric,Yellow,Happiness,Positive
+The family was exultant after their son's graduation.,exultant,Yellow,Happiness,Positive
+The guests were flying high after the party.,flying high,Yellow,Happiness,Positive
+The employees were gay after receiving their bonuses.,gay,Yellow,Happiness,Positive
+The baby was gleeful as she played with her toys.,gleeful,Yellow,Happiness,Positive
+The bride was gratified by the compliments on her dress.,gratified,Yellow,Happiness,Positive
+The team was high-spirited before the game.,high-spirited,Yellow,Happiness,Positive
+The children were jolly as they decorated the Christmas tree.,jolly,Yellow,Happiness,Positive
+The couple was laughing as they watched a comedy.,laughing,Yellow,Happiness,Positive
+The students were light-hearted as they joked around.,light-hearted,Yellow,Happiness,Positive
+The family was mirthful as they played board games.,mirthful,Yellow,Happiness,Positive
+The guests were on cloud nine after the announcement.,cloud nine,Yellow,Happiness,Positive
+The employees were optimistic about the future.,optimistic,Yellow,Happiness,Positive
+The baby was perky as she crawled around.,perky,Yellow,Happiness,Positive
+The bride was playful as she danced with her husband.,playful,Yellow,Happiness,Positive
+The team was positive about their chances of winning.,positive,Yellow,Happiness,Positive
+The children were sparkling as they watched the fireworks.,sparkling,Yellow,Happiness,Positive
+The couple was sunny as they strolled along the beach.,sunny,Yellow,Happiness,Positive
+The students were tickled by the surprise party.,tickled,Yellow,Happiness,Positive
+The family was upbeat about the upcoming holiday.,upbeat,Yellow,Happiness,Positive
+The guests were walking on air after the concert.,walking on air,Yellow,Happiness,Positive
+The employees were whistling as they worked.,whistling,Yellow,Happiness,Positive
+The baby was zippy as she crawled around.,zippy,Yellow,Happiness,Positive
+The bride was blissful on her honeymoon.,blissful,Yellow,Happiness,Positive
+The team was bubbling over with excitement.,bubbling over,Yellow,Happiness,Positive
+The children were bouncy as they played on the trampoline.,bouncy,Yellow,Happiness,Positive
+The couple was carefree as they explored the city.,carefree,Yellow,Happiness,Positive
+The students were chirpy as they studied for their exams.,chirpy,Yellow,Happiness,Positive
+The family was comfortable in their new home.,comfortable,Yellow,Happiness,Positive
+The guests were complacent after the successful event.,complacent,Yellow,Happiness,Positive
+The employees were confident about their abilities.,confident,Yellow,Happiness,Positive
+The baby was cozy in her blanket.,cozy,Yellow,Happiness,Positive
+The bride was dreamy as she looked into her husband's eyes.,dreamy,Yellow,Happiness,Positive
+The team was eager to start the game.,eager,Yellow,Happiness,Positive
+The children were energetic as they ran around the playground.,energetic,Yellow,Happiness,Positive
+The couple was enthusiastic about their new business venture.,enthusiastic,Yellow,Happiness,Positive
+The students were excited about the upcoming field trip.,excited,Yellow,Happiness,Positive
+The family was fond of their pet dog.,fond,Yellow,Happiness,Positive
+I'm feeling unhappy today.,unhappy,Blue,Sadness,Negative
+She was heartbroken after the breakup.,heartbroken,Blue,Sadness,Negative
+He was depressed after losing his job.,depressed,Blue,Sadness,Negative
+The children were miserable after their pet died.,miserable,Blue,Sadness,Negative
+I'm sorry to hear about your loss.,loss,Blue,Sadness,Negative
+They were dismal after the defeat.,dismal,Blue,Sadness,Negative
+The audience was gloomy after the tragedy.,gloomy,Blue,Sadness,Negative
+He was melancholy after the funeral.,melancholy,Blue,Sadness,Negative
+She was downcast after the diagnosis.,downcast,Blue,Sadness,Negative
+The team was dispirited after the loss.,dispirited,Blue,Sadness,Negative
+The atmosphere was somber at the funeral.,somber,Blue,Sadness,Negative
+The couple was wistful after the separation.,wistful,Blue,Sadness,Negative
+The students were oppressed by the workload.,oppressed,Blue,Sadness,Negative
+The weather was dreary on the day of the picnic.,dreany,Blue,Sadness,Negative
+The guests were disappointed with the service.,disappointed,Blue,Sadness,Negative
+The family was woeful after the accident.,woeful,Blue,Sadness,Negative
+The employees were crestfallen after the layoff.,crestfallen,Blue,Sadness,Negative
+The baby was lamentable after the vaccination.,lamentable,Blue,Sadness,Negative
+The bride was distressed on her wedding day.,distressed,Blue,Sadness,Negative
+The team was tragic after the injury.,tragic,Blue,Sadness,Negative
+The children were sorrowful after the loss.,sorrowful,Blue,Sadness,Negative
+The couple was regretful after the argument.,regretful,Blue,Sadness,Negative
+The students were down after the exam.,down,Blue,Sadness,Negative
+The family was grieved after the loss.,grieved,Blue,Sadness,Negative
+The guests were disheartened after the speech.,dishearted,Blue,Sadness,Negative
+The employees were hopeless after the meeting.,hopeless,Blue,Sadness,Negative
+The baby was tearful after the fall.,tearful,Blue,Sadness,Negative
+The bride was mournful after the death of her father.,mournful,Blue,Sadness,Negative
+The team was unfortunate after the penalty.,unfortunate,Blue,Sadness,Negative
+The children were unlucky after the accident.,unlucky,Blue,Sadness,Negative
+The couple was unhappy after the move.,unhappy,Blue,Sadness,Negative
+The students were uncomfortable after the lecture.,uncomfortable,Blue,Sadness,Negative
+The family was unfortunate after the fire.,unfortunate,Blue,Sadness,Negative
+The guests were unpleasant after the argument.,unpleasant,Blue,Sadness,Negative
+The employees were unsuccessful after the pitch.,unsuccessful,Blue,Sadness,Negative
+The baby was unwell after the fever.,unwell,Blue,Sadness,Negative
+The bride was unlucky after the rain.,unlucky,Blue,Sadness,Negative
+The team was unhappy after the draw.,unhappy,Blue,Sadness,Negative
+The children were unfortunate after the storm.,unfortunate,Blue,Sadness,Negative
+The couple was unlucky after the accident.,unlucky,Blue,Sadness,Negative
+The students were unhappy after the assignment.,unhappy,Blue,Sadness,Negative
+The family was unfortunate after the robbery.,unfortunate,Blue,Sadness,Negative
+The guests were unhappy after the delay.,unhappy,Blue,Sadness,Negative
+The employees were unhappy after the appraisal.,unhappy,Blue,Sadness,Negative
+The baby was unhappy after the teething.,unhappy,Blue,Sadness,Negative
+The bride was unhappy after the dress fitting.,unhappy,Blue,Sadness,Negative
+The team was unhappy after the substitution.,unhappy,Blue,Sadness,Negative
+The children were unhappy after the punishment.,unhappy,Blue,Sadness,Negative
+The couple was unhappy after the counseling.,unhappy,Blue,Sadness,Negative
+The students were unhappy after the feedback.,unhappy,Blue,Sadness,Negative
+The family was unhappy after the argument.,unhappy,Blue,Sadness,Negative
+The guests were unhappy after the service.,unhappy,Blue,Sadness,Negative
+The employees were unhappy after the training.,unhappy,Blue,Sadness,Negative
+The baby was unhappy after the diaper change.,unhappy,Blue,Sadness,Negative
+The bride was unhappy after the makeup.,unhappy,Blue,Sadness,Negative
+The team was unhappy after the injury.,unhappy,Blue,Sadness,Negative
+The children were unhappy after the scolding.,unhappy,Blue,Sadness,Negative
+The couple was unhappy after the misunderstanding.,unhappy,Blue,Sadness,Negative
+The students were unhappy after the grade.,unhappy,Blue,Sadness,Negative
+The family was unhappy after the separation.,unhappy,Blue,Sadness,Negative
+Feeling annoyed today.,annoyed,Red,Angry,Negative
+She was vexed by his behavior.,vexed,Red,Angry,Negative
+He was exasperated by the delay.,exasperated,Red,Angry,Negative
+The children were cross after being scolded.,cross,Red,Angry,Negative
+I'm irritated by the constant noise.,irritated,Red,Angry,Negative
+They were exasperated by the traffic jam.,exasperated,Red,Angry,Negative
+The audience was outraged by the politician's comments.,outraged,Red,Angry,Negative
+He was furious after being lied to.,furious,Red,Angry,Negative
+She was irked by the lack of communication.,irked,Red,Angry,Negative
+The team was incensed by the referee's decision.,incensed,Red,Angry,Negative
+The atmosphere was tense after the argument.,tense,Red,Angry,Negative
+The couple was fuming after the misunderstanding.,fuming,Red,Angry,Negative
+The students were frustrated by the difficult assignment.,frustrated,Red,Angry,Negative
+The weather was stormy on the day of the protest.,stromy,Red,Angry,Negative
+The guests were displeased with the service.,displeased,Red,Angry,Negative
+The family was upset after the accident.,upset,Red,Angry,Negative
+The employees were enraged by the pay cut.,enraged,Red,Angry,Negative
+The baby was fussy after the vaccination.,fussy,Red,Angry,Negative
+The bride was irritated by the late arrival of the guests.,irritated,Red,Angry,Negative
+The team was livid after the defeat.,livid,Red,Angry,Negative
+The children were mad after losing the game.,mad,Red,Angry,Negative
+The couple was offended by the rude comment.,offended,Red,Angry,Negative
+The students were pissed off by the teacher's behavior.,pissed off,Red,Angry,Negative
+The family was resentful after the argument.,resentful,Red,Angry,Negative
+The guests were seething after the insult.,insult,Red,Angry,Negative
+The employees were spitting mad after the announcement.,spitting mad,Red,Angry,Negative
+The baby was teething and crying.,teething,Red,Angry,Negative
+The bride was ticked off by the photographer's behavior.,ticked off,Red,Angry,Negative
+The team was worked up before the game.,workedup,Red,Angry,Negative
+The children were wrathful after being punished.,wrathful,Red,Angry,Negative
+The couple was angry after the argument.,angry,Red,Angry,Negative
+The students were bitter after the rejection.,bitter,Red,Angry,Negative
+The family was boiling after the accusation.,boiling,Red,Angry,Negative
+The guests were burning with anger after the delay.,burning,Red,Angry,Negative
+The employees were chafed by the new policy.,chafed,Red,Angry,Negative
+The baby was cranky after the nap.,cranky,Red,Angry,Negative
+The bride was disgruntled by the wedding planner's behavior.,disgruntled,Red,Angry,Negative
+The team was enflamed after the coach's speech.,enflamed,Red,Angry,Negative
+The children were fierce after the provocation.,fierce,Red,Angry,Negative
+The couple was heated after the discussion.,heated,Red,Angry,Negative
+The students were incensed by the unfair grading.,incensed,Red,Angry,Negative
+The family was infuriated by the broken promise.,infuriated,Red,Angry,Negative
+The guests were irate after the mix-up.,irate,Red,Angry,Negative
+The employees were livid after the layoff.,livid,Red,Angry,Negative
+The baby was mad after the diaper change.,mad,Red,Angry,Negative
+The bride was offended by the dress fitting.,offended,Red,Angry,Negative
+The team was outraged by the referee's call.,outraged,Red,Angry,Negative
+The children were pissed after the prank.,pissed,Red,Angry,Negative
+The couple was provoked by the argument.,provoked,Red,Angry,Negative
+The students were rankled by the teacher's behavior.,rankled,Red,Angry,Negative
+The family was riled after the accusation.,riled,Red,Angry,Negative
+The guests were seething after the insult.,seething,Red,Angry,Negative
+The employees were spitting mad after the announcement.,spitting mad,Red,Angry,Negative
+The baby was tearful after the fall.,tearful,Red,Angry,Negative
+The bride was ticked off by the photographer's behavior.,ticked off,Red,Angry,Negative
+The team was worked up before the game.,workedup,Red,Angry,Negative
+The children were wrathful after being punished.,wrathful,Red,Angry,Negative
+The couple was angry after the argument.,angry,Red,Angry,Negative
+The students were bitter after the rejection.,bitter,Red,Angry,Negative
+The family was boiling after the accusation.,boiling,Red,Angry,Negative
+I'm feeling fond of you today.,fond,Pink,Love,positive
+She was tender with her newborn baby.,tender,Pink,Love,positive
+He was warm towards his old friend.,warm,Pink,Love,positive
+The children were affectionate with their pets.,affectionate,Pink,Love,positive
+I adore spending time with you.,adore,Pink,Love,positive
+They were besotted with each other.,besotted,Pink,Love,positive
+The audience was enamored of the singer.,enamored,Pink,Love,positive
+He was smitten with the new girl in town.,smitten ,Pink,Love,positive
+She was infatuated with the idea of traveling.,infatuated,Pink,Love,positive
+The team was in love with the sport.,love,Pink,Love,positive
+The atmosphere was romantic at the candlelit dinner.,romantic,Pink,Love,positive
+The couple was passionate about their work.,passionate,Pink,Love,positive
+The students were devoted to their studies.,devoted,Pink,Love,positive
+The weather was lovely on the day of the picnic.,lovely,Pink,Love,positive
+The guests were charmed by the host's hospitality.,charmed,Pink,Love,positive
+The family was crazy about their new puppy.,crazy,Pink,Love,positive
+The employees were enthusiastic about the new project.,enthusiastic,Pink,Love,positive
+The baby was cherished by her parents.,cherrished,Pink,Love,positive
+The bride was enchanting on her wedding day.,enchanting,Pink,Love,positive
+The team was excited about the upcoming game.,excited,Pink,Love,positive
+The children were happy as they played in the park.,happy,Pink,Love,positive
+The couple was inseparable after their first date.,inseparable,Pink,Love,positive
+The students were keen to learn new things.,keen,Pink,Love,positive
+The family was loving and supportive.,loving,Pink,Love,positive
+The guests were mesmerized by the magician's tricks.,mesmerized,Pink,Love,positive
+The employees were motivated to succeed.,motivated,Pink,Love,positive
+The baby was precious to her grandparents.,precious,Pink,Love,positive
+The bride was radiant in her wedding gown.,radiant,Pink,Love,positive
+The team was thrilled to be in the finals.,thrilled,Pink,Love,positive
+The children were adorable in their costumes.,adorable,Pink,Love,positive
+The couple was blissful on their honeymoon.,blissful,Pink,Love,positive
+The students were curious about the world.,curious,Pink,Love,positive
+The family was endearing in their traditions.,endearing,Pink,Love,positive
+The guests were friendly and welcoming.,friendly,Pink,Love,positive
+The employees were hardworking and dedicated.,hardworking,Pink,Love,positive
+The baby was innocent and pure.,innocent,Pink,Love,positive
+The bride was joyful as she danced with her husband.,joyful,Pink,Love,positive
+The team was lucky to have such great fans.,lucky,Pink,Love,positive
+The children were playful as they ran around.,playful,Pink,Love,positive
+The couple was romantic as they watched the sunset.,romantic,Pink,Love,positive
+The students were smart and talented.,smart,Pink,Love,positive
+The family was special and unique.,special,Pink,Love,positive
+The guests were thankful for the invitation.,thankful,Pink,Love,positive
+The employees were valuable members of the team.,valuable,Pink,Love,positive
+The baby was wonderful and amazing.,wonderful,Pink,Love,positive
+The bride was youthful and beautiful.,youthful,Pink,Love,positive
+The team was zealous about winning the championship.,zealous,Pink,Love,positive
+The children were bright and creative.,bright,Pink,Love,positive
+The couple was committed to their relationship.,committed,Pink,Love,positive
+The students were determined to succeed.,determined,Pink,Love,positive
+The family was generous and kind.,generous,Pink,Love,positive
+The guests were hospitable and gracious.,hospitable,Pink,Love,positive
+The employees were innovative and creative.,innovative,Pink,Love,positive
+The baby was lovable and adorable.,lovable,Pink,Love,positive
+The bride was magnetic and charming.,magnetic,Pink,Love,positive
+The team was passionate about their sport.,passionate,Pink,Love,positive
+The children were spirited and lively.,spirited,Pink,Love,positive
+The couple was united in their love.,united,Pink,Love,positive
+The students were vibrant and energetic.,vibrant,Pink,Love,positive
+The family was warm-hearted and welcoming.,warm-hearted,Pink,Love,positive
+I'm feeling apprehensive today.,apprehensive,Black,Fear,Negative
+She was terrified of the dark.,terrified,Black,Fear,Negative
+He was panicked by the sudden noise.,panicked,Black,Fear,Negative
+The children were scared of the monster under the bed.,scared,Black,Fear,Negative
+I dread the thought of public speaking.,dread,Black,Fear,Negative
+They were petrified by the sight of the snake.,petrified,Black,Fear,Negative
+The audience was alarmed by the fire.,alarmed,Black,Fear,Negative
+He was anxious about the future.,anxious,Black,Fear,Negative
+She was worried about her health.,worried,Black,Fear,Negative
+The team was nervous before the game.,nervous,Black,Fear,Negative
+The atmosphere was tense during the storm.,tense,Black,Fear,Negative
+The couple was uneasy about the situation.,uneasy,Black,Fear,Negative
+The students were frightened by the loud noise.,frightened,Black,Fear,Negative
+The weather was ominous on the day of the hurricane.,ominous,Black,Fear,Negative
+The guests were concerned about the safety of the building.,concerned,Black,Fear,Negative
+The family was afraid of the intruder.,afraid,Black,Fear,Negative
+The employees were jittery about the upcoming layoffs.,jittery,Black,Fear,Negative
+The baby was startled by the loud noise.,startled,Black,Fear,Negative
+The bride was anxious about the wedding.,anxious,Black,Fear,Negative
+The team was worried about the competition.,worried,Black,Fear,Negative
+The children were fearful of the dark.,fearful,Black,Fear,Negative
+The couple was worried about the future.,worried,Black,Fear,Negative
+The students were appalled by the news.,appalled,Black,Fear,Negative
+The family was panicked by the earthquake.,panicked,Black,Fear,Negative
+The guests were uneasy about the safety of the food.,uneasy,Black,Fear,Negative
+The employees were fearful of losing their jobs.,fearful,Black,Fear,Negative
+The baby was frightened by the loud noise.,frightened,Black,Fear,Negative
+The bride was nervous about the ceremony.,nervous,Black,Fear,Negative
+The team was anxious about the outcome.,anxious,Black,Fear,Negative
+The children were terrified of the thunderstorm.,terrified,Black,Fear,Negative
+The couple was scared of the dark.,scared,Black,Fear,Negative
+The students were alarmed by the test results.,alarmed,Black,Fear,Negative
+The family was worried about the hurricane.,worried,Black,Fear,Negative
+The guests were fearful of the storm.,fearful,Black,Fear,Negative
+The employees were anxious about the meeting.,anxious,Black,Fear,Negative
+The baby was scared of the stranger.,scared,Black,Fear,Negative
+The bride was concerned about the weather.,concerned,Black,Fear,Negative
+The team was frightened by the opponent.,frightened,Black,Fear,Negative
+The children were nervous about the exam.,nervous,Black,Fear,Negative
+The couple was worried about the finances.,worried,Black,Fear,Negative
+The students were terrified by the fire drill.,terrified,Black,Fear,Negative
+The family was anxious about the surgery.,anxious,Black,Fear,Negative
+The guests were fearful of the accident.,fearful,Black,Fear,Negative
+The employees were worried about the deadline.,worried,Black,Fear,Negative
+The baby was frightened by the dog.,frightened,Black,Fear,Negative
+The bride was nervous about the reception.,nervous,Black,Fear,Negative
+The team was scared of the injury.,scared,Black,Fear,Negative
+The children were anxious about the trip.,anxious,Black,Fear,Negative
+The couple was worried about the in-laws.,worried,Black,Fear,Negative
+The students were fearful of the bully.,fearful,Black,Fear,Negative
+The family was terrified of the intruder.,terrified,Black,Fear,Negative
+The guests were nervous about the speech.,nervous,Black,Fear,Negative
+The employees were worried about the budget.,worried,Black,Fear,Negative
+The baby was scared of the clown.,scared,Black,Fear,Negative
+The bride was anxious about the dress.,anxious,Black,Fear,Negative
+The team was frightened by the coach.,frightened,Black,Fear,Negative
+The children were worried about the test.,worried,Black,Fear,Negative
+The couple was terrified of the storm.,terrified,Black,Fear,Negative
+The students were nervous about the presentation.,nervous,Black,Fear,Negative
+The family was fearful of the disease.,fearful,Black,Fear,Negative
+I'm feeling jealous today.,jealous,Green,Envy,Negative
+She was covetous of her friend's success.,covetous,Green,Envy,Negative
+He was envious of his neighbor's new car.,envious,Green,Envy,Negative
+The children were green-eyed with envy over their classmate's toy.,green-eyed,Green,Envy,Negative
+I resent the fact that you got the promotion.,resent ,Green,Envy,Negative
+They were invidious of their colleague's popularity.,invidious,Green,Envy,Negative
+The audience was malicious towards the performer.,malicious,Green,Envy,Negative
+He was spiteful after being rejected.,spiteful,Green,Envy,Negative
+She was resentful of her sister's beauty.,resentful,Green,Envy,Negative
+The team was bitter about their loss.,bitter,Green,Envy,Negative
+The atmosphere was hostile after the argument.,hostile,Green,Envy,Negative
+The couple was grudging towards their exes.,grudging,Green,Envy,Negative
+The students were discontented with their grades.,discontented,Green,Envy,Negative
+The weather was malignant on the day of the picnic.,malignant,Green,Envy,Negative
+The guests were displeased with the food and service.,displeased,Green,Envy,Negative
+The family was sour about their relative's success.,sour,Green,Envy,Negative
+The employees were envious of their coworker's promotion.,envious,Green,Envy,Negative
+The baby was jealous of the attention given to the new baby.,jealous,Green,Envy,Negative
+The bride was resentful of her bridesmaid's dress.,resentful,Green,Envy,Negative
+The team was covetous of their opponent's trophy.,covetous,Green,Envy,Negative
+The children were envious of their friend's birthday presents.,envious,Green,Envy,Negative
+The couple was jealous of their friends' relationship.,jealous,Green,Envy,Negative
+The students were displeased with the teacher's grading.,displeased,Green,Envy,Negative
+The family was resentful of their neighbor's new house.,resentful,Green,Envy,Negative
+The guests were envious of the host's wealth.,envious,Green,Envy,Negative
+The employees were jealous of their coworker's popularity.,jealous,Green,Envy,Negative
+The baby was covetous of the toy.,covetous,Green,Envy,Negative
+The bride was envious of her sister's wedding.,envious,Green,Envy,Negative
+The team was displeased with the referee's decision.,discontented,Green,Envy,Negative
+The children were jealous of their sibling's attention.,jealous,Green,Envy,Negative
+The couple was envious of their friends' vacation.,envious,Green,Envy,Negative
+The students were discontented with the school's facilities.,discontented,Green,Envy,Negative
+The family was sour about their relative's inheritance.,sour,Green,Envy,Negative
+The guests were jealous of the host's success.,jealous,Green,Envy,Negative
+The employees were envious of their coworker's salary.,envious,Green,Envy,Negative
+The baby was jealous of the pet.,jealous,Green,Envy,Negative
+The bride was resentful of her mother-in-law's interference.,resentful,Green,Envy,Negative
+The team was covetous of their opponent's coach.,covetous,Green,Envy,Negative
+The children were envious of their friend's talent.,envious,Green,Envy,Negative
+The couple was jealous of their friends' happiness.,jealous,Green,Envy,Negative
+The students were displeased with the course content.,displeased,Green,Envy,Negative
+The family was resentful of their neighbor's garden.,resentful,Green,Envy,Negative
+The guests were envious of the host's lifestyle.,envious,Green,Envy,Negative
+The employees were jealous of their coworker's work-life balance.,jealous,Green,Envy,Negative
+The baby was covetous of the pacifier.,covetous,Green,Envy,Negative
+The bride was envious of her friend's engagement ring.,envious,Green,Envy,Negative
+The team was displeased with the coach's strategy.,displeased,Green,Envy,Negative
+The children were jealous of their friend's popularity.,jealous,Green,Envy,Negative
+The couple was envious of their friends' new car.,envious,Green,Envy,Negative
+The students were discontented with the school's policies.,discontented,Green,Envy,Negative
+The family was sour about their relative's promotion.,sour,Green,Envy,Negative
+The guests were jealous of the host's relationship.,jealous,Green,Envy,Negative
+The employees were envious of their coworker's recognition.,envious,Green,Envy,Negative
+The baby was jealous of the attention given to the stuffed animal.,jealous,Green,Envy,Negative
+The bride was resentful of her mother's criticism.,resentful,Green,Envy,Negative
+The team was covetous of their opponent's equipment.,covetous,Green,Envy,Negative
+The children were envious of their friend's vacation.,envious,Green,Envy,Negative
+The couple was jealous of their friends' new house.,jealous,Green,Envy,Negative
+The students were displeased with the school's administration.,displeased,Green,Envy,Negative
+The family was resentful of their neighbor's car.,resentful,Green,Envy,Negative
+I'm feeling a sense of tranquility today.,tranquility,LightBlue,Calmness,Neutral
+She was serene in the face of adversity.,serene,LightBlue,Calmness,Neutral
+He was composed during the interview.,composed,LightBlue,Calmness,Neutral
+The children were quiet during the meditation session.,quiet,LightBlue,Calmness,Neutral
+I relax when I'm surrounded by nature.,relax,LightBlue,Calmness,Neutral
+They were at ease in each other's company.,at ease,LightBlue,Calmness,Neutral
+The audience was placid during the performance.,placid,LightBlue,Calmness,Neutral
+He was collected during the crisis.,collected,LightBlue,Calmness,Neutral
+She was unruffled by the chaos around her.,unruffled,LightBlue,Calmness,Neutral
+The team was cool-headed during the game.,cool-headed,LightBlue,Calmness,Neutral
+The atmosphere was peaceful at the beach.,peaceful,LightBlue,Calmness,Neutral
+The couple was harmonious in their relationship.,harmonious,LightBlue,Calmness,Neutral
+The students were calm during the exam.,calm,LightBlue,Calmness,Neutral
+The weather was still on the day of the picnic.,still,LightBlue,Calmness,Neutral
+The guests were content with the food and service.,content,LightBlue,Calmness,Neutral
+The family was soothed by the music.,soothed,LightBlue,Calmness,Neutral
+The employees were relieved after the deadline.,relieved,LightBlue,Calmness,Neutral
+The baby was quiet during the nap.,quiet,LightBlue,Calmness,Neutral
+The bride was composed during the ceremony.,composed,LightBlue,Calmness,Neutral
+The team was steady during the competition.,steady,LightBlue,Calmness,Neutral
+The children were peaceful as they slept.,peaceful,LightBlue,Calmness,Neutral
+The couple was relaxed on the beach.,relaxed,LightBlue,Calmness,Neutral
+The students were focused during the lecture.,focused,LightBlue,Calmness,Neutral
+The family was restful during the vacation.,restful,LightBlue,Calmness,Neutral
+The guests were pleased with the accommodations.,pleased,LightBlue,Calmness,Neutral
+The employees were satisfied with the outcome.,satisfied,LightBlue,Calmness,Neutral
+The baby was asleep in the crib.,asleep,LightBlue,Calmness,Neutral
+The bride was graceful during the dance.,graceful,LightBlue,Calmness,Neutral
+The team was confident before the game.,confident,LightBlue,Calmness,Neutral
+The children were happy as they played.,happy,LightBlue,Calmness,Neutral
+The couple was blissful on their honeymoon.,blissful,LightBlue,Calmness,Neutral
+The students were attentive during the presentation.,attentive,LightBlue,Calmness,Neutral
+The family was comfortable in their new home.,comfortable,LightBlue,Calmness,Neutral
+The guests were delighted with the entertainment.,delighted,LightBlue,Calmness,Neutral
+The employees were motivated by the project.,motivated,LightBlue,Calmness,Neutral
+The baby was cozy in the blanket.,cozy,LightBlue,Calmness,Neutral
+The bride was radiant on her wedding day.,radiant,LightBlue,Calmness,Neutral
+The team was optimistic about the future.,optimistic,LightBlue,Calmness,Neutral
+The children were smiling as they drew.,smiling,LightBlue,Calmness,Neutral
+The couple was happy in their relationship.,happy,LightBlue,Calmness,Neutral
+The students were engaged in the discussion.,engaged,LightBlue,Calmness,Neutral
+The family was joyful during the reunion.,joyful,LightBlue,Calmness,Neutral
+The guests were amused by the jokes.,amused,LightBlue,Calmness,Neutral
+The employees were enthusiastic about the training.,enthusiastic,LightBlue,Calmness,Neutral
+The baby was giggling as she played.,giggling,LightBlue,Calmness,Neutral
+The bride was beautiful in her dress.,beautiful,LightBlue,Calmness,Neutral
+The team was victorious in the game.,victorious,LightBlue,Calmness,Neutral
+The children were laughing as they watched cartoons.,laughing,LightBlue,Calmness,Neutral
+The couple was in love with each other.,in love,LightBlue,Calmness,Neutral
+The students were inspired by the speaker.,inspired,LightBlue,Calmness,Neutral
+The family was happy to be together.,happy,LightBlue,Calmness,Neutral
+The guests were grateful for the invitation.,graceful,LightBlue,Calmness,Neutral
+The employees were proud of their work.,proud,LightBlue,Calmness,Neutral
+The baby was smiling at her mother.,smiling,LightBlue,Calmness,Neutral
+The bride was elegant in her veil.,elegant,LightBlue,Calmness,Neutral
+The team was celebrating their victory.,celebrating,LightBlue,Calmness,Neutral
+The children were playing in the park.,playing,LightBlue,Calmness,Neutral
+The couple was committed to their relationship.,committed,LightBlue,Calmness,Neutral
+The students were passionate about their studies.,passionate,LightBlue,Calmness,Neutral
+The family was united in their love.,united,LightBlue,Calmness,Neutral

@@ -1,0 +1,479 @@
+Text,Keyword,Color,Emotion,Sentiment
+"The sun is shining, making today a happy day.",happy,Yellow,Happiness,Positive
+I love it when we can share laughter and create a joyful atmosphere.,joyfull,Yellow,Happiness,Positive
+Today has been full of pleasant surprises—I'm feeling content.,content,Yellow,Happiness,Positive
+"I got some great news today, and my heart is so happy.",happy,Yellow,Happiness,Positive
+That cheerful melody on the radio always lifts my spirits.,cheerful,Yellow,Happiness,Positive
+"We exchanged grateful smiles, and it made the moment even happier.",happier,Yellow,Happiness,Positive
+Let's celebrate with joy; there's a real sense of bliss in the air.,joy,Yellow,Happiness,Positive
+The success of the project filled us all with elation.,elation,Yellow,Happiness,Positive
+"I achieved my goal, and I'm feeling a sense of delight.",delight,Yellow,Happiness,Positive
+"We shared a heartfelt moment, and it filled us with happiness.",happiness,Yellow,Happiness,Positive
+The laughter of children playing outside is so infectious and carefree.,laughter,Yellow,Happiness,Positive
+"Family gatherings give me a cozy, warm feeling, and it makes me happy.",happy,Yellow,Happiness,Positive
+The vibrant colors of the flowers in the garden bring me joy.,joy,Yellow,Happiness,Positive
+I'm genuinely happy and satisfied with what I accomplished.,happy,Yellow,Happiness,Positive
+I can't help but wear a happy grin—it's been a good day.,happy,Yellow,Happiness,Positive
+The peaceful sunset created a serene and happy atmosphere.,happy,Yellow,Happiness,Positive
+The song's uplifting message fills me with pure joy.,joy,Yellow,Happiness,Positive
+That unexpected compliment left me pleasantly surprised and happy.,happy,Yellow,Happiness,Positive
+A warm hug from a loved one always brings happiness.,happiness,Yellow,Happiness,Positive
+The kindness of strangers makes the world feel like a happy place.,happy,Yellow,Happiness,Positive
+The completion of the project left us feeling ecstatic.,ecstatic,Yellow,Happiness,Positive
+The bonfire and the laughter of friends make for a joyful night.,joyful,Yellow,Happiness,Positive
+The aroma of freshly baked cookies fills the kitchen with happiness.,happiness,Yellow,Happiness,Positive
+Positive feedback on my work makes me genuinely happy.,happy,Yellow,Happiness,Positive
+Dancing under the stars fills me with an overwhelming sense of joy.,joy,Yellow,Happiness,Positive
+The heartwarming reunion brought tears of happiness.,happiness,Yellow,Happiness,Positive
+Achieving our dreams brings a sense of fulfillment and happiness.,happiness,Yellow,Happiness,Positive
+Playful puppy antics always bring a smile to my face.,smile,Yellow,Happiness,Positive
+A good book and a cup of tea make me feel content and happy.,happy,Yellow,Happiness,Positive
+Shared laughter between old friends creates a nostalgic and happy atmosphere.,happy,Yellow,Happiness,Positive
+"A beautiful sunrise marks the beginning of a new, happy day.",happy,Yellow,Happiness,Positive
+Kind words of encouragement lift my spirits and make me genuinely happy.,happy,Yellow,Happiness,Positive
+Accomplishing a challenging task brings immense happiness.,happiness,Yellow,Happiness,Positive
+Heartfelt compliments exchanged between friends create a happy bond.,happy,Yellow,Happiness,Positive
+"The surprise party was a great success, leaving everyone in a state of pure joy.",joy,Yellow,Happiness,Positive
+The harmonious melody of the music fills the room with a sense of happiness.,happiness,Yellow,Happiness,Positive
+The vibrant and lively atmosphere of the carnival makes everyone feel happy.,happy,Yellow,Happiness,Positive
+The soothing sound of waves crashing on the shore brings a sense of tranquility and happiness.,happiness,Yellow,Happiness,Positive
+The shared laughter and camaraderie among colleagues make the workplace a happy environment.,happy,Yellow,Happiness,Positive
+Heartfelt words of gratitude expressed by a friend bring tears of happiness.,happiness,Yellow,Happiness,Positive
+The picturesque scenery and breathtaking views leave me blissfully happy.,happy,Yellow,Happiness,Positive
+The genuine kindness of strangers in a foreign land makes the travel experience exceptionally happy.,happy,Yellow,Happiness,Positive
+The cheerful chatter of children playing in the park creates a happy ambiance.,happy,Yellow,Happiness,Positive
+An unexpected gift brings a burst of joy and happiness to my day.,happiness,Yellow,Happiness,Positive
+Genuine smiles exchanged between loved ones make a family gathering a happy occasion.,happy,Yellow,Happiness,Positive
+The feeling of serenity and peace in nature always leaves me feeling happy.,happy,Yellow,Happiness,Positive
+Accomplishing a long-term goal brings a deep sense of satisfaction and happiness.,happiness,Yellow,Happiness,Positive
+Shared laughter over a funny story makes the evening a truly happy one.,happy,Yellow,Happiness,Positive
+A warm and inviting glow of a fireplace creates a cozy and happy atmosphere.,happy,Yellow,Happiness,Positive
+A surprise visit from a dear friend brings instant happiness.,happiness,Yellow,Happiness,Positive
+Joyous celebration of a milestone marks a moment of collective happiness.,happiness,Yellow,Happiness,Positive
+The uplifting and positive energy of a motivational speech leaves everyone feeling happy.,happy,Yellow,Happiness,Positive
+Shared laughter and jokes at a family dinner make the evening truly happy.,happy,Yellow,Happiness,Positive
+The feeling of accomplishment after a successful event brings immense happiness.,happiness,Yellow,Happiness,Positive
+Genuine expressions of joy and excitement at a reunion warm the heart.,joy,Yellow,Happiness,Positive
+Camaraderie and teamwork among colleagues make the workplace a happy and productive environment.,happy,Yellow,Happiness,Positive
+I'm living my best life and feeling grateful for it.,grateful,Yellow,Happiness,Positive
+I'm embracing my inner child and finding joy in the simple things.,joy,Yellow,Happiness,Positive
+I'm practicing self-care and doing things that make me happy.,happy,Yellow,Happiness,Positive
+I'm surrounding myself with positive people who uplift and inspire me.,positive,Yellow,Happiness,Positive
+I am so angry right now! I can't believe he said that to me!,angry,Red,Angry,Negative
+I am furious with her. I can't believe she did that!,furious,Red,Angry,Negative
+I am enraged! I can't believe he did that to me!,enraged,Red,Angry,Negative
+I am livid! I can't believe she did that!,livid,Red,Angry,Negative
+I am boiling! I can't believe he did that to me!,boiling,Red,Angry,Negative
+I am seeing red! I can't believe she did that!,red,Red,Angry,Negative
+I am fuming! I can't believe he did that to me!,fuming,Red,Angry,Negative
+I am steaming! I can't believe she did that!,steaming,Red,Angry,Negative
+I am infuriated! I can't believe he did that to me!,infuriated,Red,Angry,Negative
+I am incensed! I can't believe she did that!,incensed,Red,Angry,Negative
+I am irate! I can't believe he did that to me!,irate,Red,Angry,Negative
+I am mad! I can't believe she did that!,mad,Red,Angry,Negative
+I am pissed off! I can't believe he did that to me!,pissed,Red,Angry,Negative
+I am ticked off! I can't believe she did that!,ticked,Red,Angry,Negative
+I am riled up! I can't believe he did that to me!,riled,Red,Angry,Negative
+I am worked up! I can't believe she did that!,worked up,Red,Angry,Negative
+I am fired up! I can't believe he did that to me!,fired,Red,Angry,Negative
+I am heated up! I can't believe she did that!,heated,Red,Angry,Negative
+I am steamed up! I can't believe he did that to me!,steamed,Red,Angry,Negative
+I am hot under the collar! I can't believe she did that!,hot,Red,Angry,Negative
+I am fuming mad! I can't believe he did that to me!,fuming,Red,Angry,Negative
+I am mad as hell! I can't believe she did that!,mad,Red,Angry,Negative
+I am livid with rage! I can't believe he did that to me!,livid,Red,Angry,Negative
+I am consumed by anger! I can't believe she did that!,anger,Red,Angry,Negative
+I am filled with wrath! I can't believe he did that to me!,wrath,Red,Angry,Negative
+I am filled with fury! I can't believe she did that!,fury,Red,Angry,Negative
+I am burning with rage! I can't believe he did that to me!,burning,Red,Angry,Negative
+I am seething with anger! I can't believe she did that!,anger,Red,Angry,Negative
+I am boiling with rage! I can't believe he did that to me!,boiling,Red,Angry,Negative
+I am raging mad! I can't believe she did that!,mad,Red,Angry,Negative
+I am infuriated beyond measure! I can't believe he did that to me!,infuriated,Red,Angry,Negative
+I am apoplectic with rage! I can't believe she did that!,apoplectic,Red,Angry,Negative
+I am enraged beyond belief! I can't believe he did that to me!,enraged,Red,Angry,Negative
+I am furious to no end! I can't believe she did that!,furious,Red,Angry,Negative
+I am incensed to the core! I can't believe he did that to me!,incensed,Red,Angry,Negative
+I am irate beyond control! I can't believe she did that!,irate,Red,Angry,Negative
+I am madder than a hornet! I can't believe he did that to me!,madder,Red,Angry,Negative
+I am pissed off beyond imagination! I can't believe she did that!,pissed,Red,Angry,Negative
+I am ticked off beyond compare! I can't believe he did that to me!,ticked,Red,Angry,Negative
+I am riled up beyond measure! I can't believe she did that!,riled,Red,Angry,Negative
+I am worked up beyond belief! I can't believe he did that to me!,worked up,Red,Angry,Negative
+I am fired up beyond control! I can't believe she did that!,fired,Red,Angry,Negative
+I am heated up to the boiling point! I can't believe he did that to me!,heated,Red,Angry,Negative
+I am steamed up to the max! I can't believe she did that!,steamed,Red,Angry,Negative
+I am hot under the collar beyond compare! I can't believe he did that to me!,hot,Red,Angry,Negative
+I am fuming mad beyond belief! I can't believe she did that!,fuming,Red,Angry,Negative
+I am mad as hell and I'm not gonna take it anymore! I can't believe he did that to me!,mad,Red,Angry,Negative
+I am livid with rage and I'm gonna let him have it! I can't believe she did that!,livid,Red,Angry,Negative
+I am consumed by anger and I'm gonna make them pay! I can't believe he did that to me!,anger,Red,Angry,Negative
+I am mad! I can't believe she did that!,mad,Red,Angry,Negative
+I am pissed off! I can't believe he did that to me!,pissed,Red,Angry,Negative
+I am ticked off! I can't believe she did that!,ticked,Red,Angry,Negative
+I am riled up! I can't believe he did that to me!,riled,Red,Angry,Negative
+I am worked up! I can't believe she did that!,worked up,Red,Angry,Negative
+I am fired up! I can't believe he did that to me!,fired,Red,Angry,Negative
+I am heated up! I can't believe she did that!,heated,Red,Angry,Negative
+I am steamed up! I can't believe he did that to me!,steamed,Red,Angry,Negative
+I feel so sad right now. I can't believe he said that to me.,sad,Blue,Sadness,Negative
+I am heartbroken. I can't believe she did that to me.,heartbroken,Blue,Sadness,Negative
+I am devastated. I can't believe he did that to me.,devastated,Blue,Sadness,Negative
+I am crushed. I can't believe she did that to me.,crushed,Blue,Sadness,Negative
+I am despondent. I can't believe he did that to me.,despondent,Blue,Sadness,Negative
+I am dispirited. I can't believe she did that to me.,dispirited,Blue,Sadness,Negative
+I am disconsolate. I can't believe he did that to me.,disconsolate,Blue,Sadness,Negative
+I am downcast. I can't believe she did that to me.,downcast,Blue,Sadness,Negative
+I am dejected. I can't believe he did that to me.,dejected,Blue,Sadness,Negative
+I am depressed. I can't believe she did that to me.,depressed,Blue,Sadness,Negative
+I am discouraged. I can't believe he did that to me.,discouraged,Blue,Sadness,Negative
+I am disheartened. I can't believe she did that.,disheartened,Blue,Sadness,Negative
+I am dispirited. I can't believe he did that to me.,dispirited,Blue,Sadness,Negative
+I am forlorn. I can't believe she did that to me.,forlorn,Blue,Sadness,Negative
+I am gloomy. I can't believe he did that to me.,gloomy,Blue,Sadness,Negative
+I am glum. I can't believe she did that to me.,glum,Blue,Sadness,Negative
+I am heavy-hearted. I can't believe he did that to me.,heavy-hearted,Blue,Sadness,Negative
+I am joyless. I can't believe she did that to me.,joyless,Blue,Sadness,Negative
+I am languishing. I can't believe he did that to me.,languishing,Blue,Sadness,Negative
+I am low-spirited. I can't believe she did that to me.,low-spirited,Blue,Sadness,Negative
+I am melancholic. I can't believe he did that to me.,melacholic,Blue,Sadness,Negative
+I am moping. I can't believe she did that to me.,moping,Blue,Sadness,Negative
+I am mourning. I can't believe he did that to me.,mourning,Blue,Sadness,Negative
+I am pining. I can't believe she did that to me.,pining,Blue,Sadness,Negative
+I am rueful. I can't believe he did that to me.,rueful,Blue,Sadness,Negative
+I am sorrowful. I can't believe she did that to me.,sorrowful,Blue,Sadness,Negative
+I am somber. I can't believe he did that to me.,somber,Blue,Sadness,Negative
+I am sullen. I can't believe she did that to me.,sullen,Blue,Sadness,Negative
+I am tearful. I can't believe he did that to me.,tearful,Blue,Sadness,Negative
+I am weepy. I can't believe she did that to me.,weepy,Blue,Sadness,Negative
+I am wretched. I can't believe he did that to me.,wretched,Blue,Sadness,Negative
+I am woebegone. I can't believe she did that to me.,woebegone,Blue,Sadness,Negative
+I am down in the dumps. I can't believe he did that to me.,dumps,Blue,Sadness,Negative
+I am feeling down. I can't believe she did that to me.,down,Blue,Sadness,Negative
+I am feeling low. I can't believe he did that to me.,low,Blue,Sadness,Negative
+I am feeling blue. I can't believe she did that to me.,blue,Blue,Sadness,Negative
+I am feeling melancholic. I can't believe he did that to me.,melacholic,Blue,Sadness,Negative
+I am feeling sorrowful. I can't believe she did that to me.,sorrowful,Blue,Sadness,Negative
+I am feeling dejected. I can't believe he did that to me.,dejected,Blue,Sadness,Negative
+I am feeling dispirited. I can't believe she did that to me.,dispirited,Blue,Sadness,Negative
+I am feeling disconsolate. I can't believe he did that to me.,disconsolated,Blue,Sadness,Negative
+I am feeling downcast. I can't believe she did that to me.,downcast,Blue,Sadness,Negative
+I am feeling down in the dumps. I can't believe he did that to me.,down,Blue,Sadness,Negative
+I am feeling blue in the face. I can't believe she did that to me.,blue,Blue,Sadness,Negative
+I am feeling gloomy with doom. I can't believe he did that to me.,doom,Blue,Sadness,Negative
+I am feeling glum as a clam. I can't believe she did that to me.,glum,Blue,Sadness,Negative
+I am feeling heavy-hearted. I can't believe he did that to me.,heavy-hearted,Blue,Sadness,Negative
+I am feeling joyless as a fish. I can't believe she did that to me.,joyless,Blue,Sadness,Negative
+I am feeling languishing like a flower. I can't believe he did that to me.,languishing,Blue,Sadness,Negative
+I feel sad and lonely.,sad,Blue,Sadness,Negative
+I am feeling down and depressed.,down,Blue,Sadness,Negative
+I am feeling blue and disheartened., blue,Blue,Sadness,Negative
+I am feeling dejected and discouraged.,dejected,Blue,Sadness,Negative
+I am feeling melancholy and despondent.,melancholy,Blue,Sadness,Negative
+I am feeling miserable and wretched.,miserable,Blue,Sadness,Negative
+I am feeling sorrowful and mournful.,sorrowful,Blue,Sadness,Negative
+I am feeling woebegone and desolate.,woebegone,Blue,Sadness,Negative
+I am feeling downcast and dispirited.,downcast,Blue,Sadness,Negative
+I am feeling disheartened and disconsolate.,disheartened,Blue,Sadness,Negative
+I am feeling gloomy and forlorn.,gloomy,Blue,Sadness,Negative
+I am feeling wretched and miserable.,wretched,Blue,Sadness,Negative
+I am feeling down in the dumps.,down,Blue,Sadness,Negative
+I am feeling down and out.,down,Blue,Sadness,Negative
+I am feeling down in the mouth.,down,Blue,Sadness,Negative
+I am feeling down trodden and disheartened.,down,Blue,Sadness,Negative
+I am feeling blue and down in the dumps.,down,Blue,Sadness,Negative
+I am feeling miserable and down in the dumps.,miserable,Blue,Sadness,Negative
+I am terrified of spiders.,terrified,Black,Fear,Negative
+I am petrified of heights.,petrified,Black,Fear,Negative
+I am scared of the dark.,scared,Black,Fear,Negative
+I am afraid of clowns.,afraid,Black,Fear,Negative
+I am frightened of snakes.,frightened,Black,Fear,Negative
+I am dreading my presentation tomorrow.,dreading,Black,Fear,Negative
+I am panicking over my upcoming exam.,panicking,Black,Fear,Negative
+I am trembling with fear.,fear,Black,Fear,Negative
+I am shaking like a leaf.,shaking,Black,Fear,Negative
+I am frozen in place.,frozen,Black,Fear,Negative
+I am paralyzed with fear.,fear,Black,Fear,Negative
+I am overwhelmed with anxiety.,anxiety,Black,Fear,Negative
+I am consumed by dread.,dread,Black,Fear,Negative
+I am filled with apprehension.,apprehension,Black,Fear,Negative
+I am living in fear.,fear,Black,Fear,Negative
+I am haunted by my fears.,fear,Black,Fear,Negative
+I am afraid to leave the house.,fear,Black,Fear,Negative
+I am afraid to be alone.,afraid,Black,Fear,Negative
+I am afraid to fail.,afraid,Black,Fear,Negative
+I am afraid of the unknown.,afraid,Black,Fear,Negative
+I am afraid of change.,afraid,Black,Fear,Negative
+I am afraid of what could happen.,afraid,Black,Fear,Negative
+I am afraid of what others think of me.,afraid,Black,Fear,Negative
+I am afraid to speak my mind.,afraid,Black,Fear,Negative
+I am afraid to stand up for myself.,afraid,Black,Fear,Negative
+I am afraid to be myself.,afraid,Black,Fear,Negative
+I am afraid to live my life.,afraid,Black,Fear,Negative
+I am afraid to love.,afraid,Black,Fear,Negative
+I am afraid to be happy.,afraid,Black,Fear,Negative
+I am afraid to be hurt.,afraid,Black,Fear,Negative
+I am afraid of pain.,afraid,Black,Fear,Negative
+I am afraid of loss.,afraid,Black,Fear,Negative
+I am afraid of death.,afraid,Black,Fear,Negative
+I am afraid of the future.,afraid,Black,Fear,Negative
+I am afraid of the unknown.,afraid,Black,Fear,Negative
+I am afraid of what could happen.,afraid,Black,Fear,Negative
+I am afraid of what others think of me.,afraid,Black,Fear,Negative
+I am afraid to speak my mind.,afraid,Black,Fear,Negative
+I am afraid to stand up for myself.,afraid,Black,Fear,Negative
+I am afraid to be myself.,afraid,Black,Fear,Negative
+I am afraid to live my life.,afraid,Black,Fear,Negative
+I am afraid to love.,afraid,Black,Fear,Negative
+I am afraid to be happy.,afraid,Black,Fear,Negative
+I am afraid to be hurt.,afraid,Black,Fear,Negative
+I am afraid of pain.,afraid,Black,Fear,Negative
+I am afraid of loss.,afraid,Black,Fear,Negative
+I am afraid of death.,afraid,Black,Fear,Negative
+I am afraid of the future.,afraid,Black,Fear,Negative
+I am afraid of the unknown.,afraid,Black,Fear,Negative
+I am afraid of what could happen.,afraid,Black,Fear,Negative
+I am afraid of what others think of me.,afraid,Black,Fear,Negative
+I am afraid to speak my mind.,afraid,Black,Fear,Negative
+I am afraid to stand up for myself.,afraid,Black,Fear,Negative
+I am afraid to be myself.,afraid,Black,Fear,Negative
+I am afraid to live my life.,afraid,Black,Fear,Negative
+I am afraid to love.,afraid,Black,Fear,Negative
+I am afraid to be happy.,afraid,Black,Fear,Negative
+I am afraid to be hurt.,afraid,Black,Fear,Negative
+I am afraid of pain.,afraid,Black,Fear,Negative
+I am afraid of loss.,afraid,Black,Fear,Negative
+I am afraid of death.,afraid,Black,Fear,Negative
+I am afraid of the future.,afraid,Black,Fear,Negative
+I am afraid of the unknown.,afraid,Black,Fear,Negative
+I am afraid of what could happen.,afraid,Black,Fear,Negative
+I am afraid of what others think of me.,afraid,Black,Fear,Negative
+I am afraid to speak my mind.,afraid,Black,Fear,Negative
+I am afraid to stand up for myself.,afraid,Black,Fear,Negative
+I am afraid to be myself.,afraid,Black,Fear,Negative
+I am afraid to live my life.,afraid,Black,Fear,Negative
+I am afraid to love.,afraid,Black,Fear,Negative
+I am afraid to be happy.,afraid,Black,Fear,Negative
+I am afraid to be hurt.,afraid,Black,Fear,Negative
+I am afraid of pain.,afraid,Black,Fear,Negative
+I am afraid of loss.,afraid,Black,Fear,Negative
+I am feeling scared. I don't know what to do.,scared,Black,Fear,Negative
+I am terrified. I can't believe this is happening.,terrified,Black,Fear,Negative
+I am horrified. I don't want to look!,horrified,Black,Fear,Negative
+I am petrified. I can't move.,petrified,Black,Fear,Negative
+I am frightened. I don't know what's going to happen.,frightened,Black,Fear,Negative
+I am dreading it. I don't want to do it.,dreading,Black,Fear,Negative
+I am apprehensive. I'm not sure what to expect.,apprehension,Black,Fear,Negative
+I am anxious. I'm worried about what might happen.,anxious,Black,Fear,Negative
+I am nervous. I'm feeling on edge.,nervous,Black,Fear,Negative
+I am panicked. I don't know what to think.,panicked,Black,Fear,Negative
+I am trembling. I can't control myself.,trembling,Black,Fear,Negative
+I am shaking. I'm scared to death.,shaking,Black,Fear,Negative
+I am sweating. I'm feeling anxious.,sweating,Black,Fear,Negative
+I am nauseous. I feel like I'm going to be sick.,nauseous,Black,Fear,Negative
+I am dizzy. I'm feeling lightheaded.,lightheaded,Black,Fear,Negative
+I am feeling faint. I'm about to pass out.,faint,Black,Fear,Negative
+I am feeling paralyzed. I can't move a muscle.,paralyzed,Black,Fear,Negative
+I am feeling helpless. I can't do anything to stop this.,helpless,Black,Fear,Negative
+I am feeling hopeless. I don't see a way out of this.,hopeless,Black,Fear,Negative
+I am feeling desperate. I need to get out of here.,desperate,Black,Fear,Negative
+I am feeling trapped. I'm stuck in this situation.,trapped,Black,Fear,Negative
+I am feeling claustrophobic. I'm feeling closed in.,claustrophobic,Black,Fear,Negative
+I am feeling agoraphobic. I'm scared of open spaces.,agoraphobic,Black,Fear,Negative
+I am feeling acrophobic. I'm scared of heights.,acrophobic,Black,Fear,Negative
+I am feeling claustrophobic. I'm scared of confined spaces.,claustrophobic,Black,Fear,Negative
+I love my family dearly.,love,Pink,Love,Positive
+I love my friends unconditionally.,love,Pink,Love,Positive
+I love my spouse passionately.,love,Pink,Love,Positive
+I love my children wholeheartedly.,love,Pink,Love,Positive
+I love my pets affectionately.,love,Pink,Love,Positive
+I love myself truly.,love,Pink,Love,Positive
+I love my life abundantly.,love,Pink,Love,Positive
+I love nature deeply.,love,Pink,Love,Positive
+I love art sincerely.,love,Pink,Love,Positive
+I love music profoundly.,love,Pink,Love,Positive
+I love food passionately.,love,Pink,Love,Positive
+I love travel excitedly.,love,Pink,Love,Positive
+I love learning eagerly.,love,Pink,Love,Positive
+I love helping others genuinely.,love,Pink,Love,Positive
+I love making a difference positively.,love,Pink,Love,Positive
+I love spreading joy wholeheartedly.,love,Pink,Love,Positive
+I love feeling alive intensely.,love,Pink,Love,Positive
+I love being grateful deeply.,love,Pink,Love,Positive
+I love being optimistic consistently.,love,Pink,Love,Positive
+I love being happy unconditionally.,love,Pink,Love,Positive
+I love being loved reciprocally.,love,Pink,Love,Positive
+I love feeling connected deeply.,love,Pink,Love,Positive
+I love feeling supported wholeheartedly.,love,Pink,Love,Positive
+I love feeling cherished abundantly.,love,Pink,Love,Positive
+I love feeling valued profoundly.,love,Pink,Love,Positive
+I love feeling appreciated sincerely.,love,Pink,Love,Positive
+I love feeling adored passionately.,love,Pink,Love,Positive
+I love feeling respected genuinely.,love,Pink,Love,Positive
+I love feeling adored unconditionally.,love,Pink,Love,Positive
+I love feeling loved eternally.,love,Pink,Love,Positive
+I feel love in my heart deeply.,love,Pink,Love,Positive
+I feel love in my soul profoundly.,love,Pink,Love,Positive
+I feel love in my mind sincerely.,love,Pink,Love,Positive
+I feel love in my body wholeheartedly.,love,Pink,Love,Positive
+I feel love in my spirit abundantly.,love,Pink,Love,Positive
+I feel love in my being eternally.,love,Pink,Love,Positive
+I express love through my words kindly.,love,Pink,Love,Positive
+I express love through my actions thoughtfully.,love,Pink,Love,Positive
+I express love through my touch gently.,love,Pink,Love,Positive
+I express love through my presence fully.,love,Pink,Love,Positive
+I express love through my energy positively.,love,Pink,Love,Positive
+I express love through my essence eternally.,love,Pink,Love,Positive
+I receive love with open arms gratefully.,love,Pink,Love,Positive
+I receive love with an open heart wholeheartedly.,love,Pink,Love,Positive
+I receive love with an open mind sincerely.,love,Pink,Love,Positive
+I receive love with an open body abundantly.,love,Pink,Love,Positive
+I receive love with an open spirit profoundly.,love,Pink,Love,Positive
+I receive love with an open being eternally.,love,Pink,Love,Positive
+I cherish the love I give and receive deeply.,love,Pink,Love,Positive
+I nurture the love I give and receive profoundly.,love,Pink,Love,Positive
+I honor the love I give and receive sincerely.,love,Pink,Love,Positive
+I respect the love I give and receive wholeheartedly.,love,Pink,Love,Positive
+I embrace the love I give and receive abundantly.,love,Pink,Love,Positive
+I celebrate the love I give and receive eternally.,love,Pink,Love,Positive
+Love is the most powerful emotion deeply.,Love,Pink,Love,Positive
+Love is the most beautiful emotion profoundly.,Love,Pink,Love,Positive
+Love is the most transformative emotion sincerely.,Love,Pink,Love,Positive
+Love is the most healing emotion wholeheartedly.,Love,Pink,Love,Positive
+Love is the most uplifting emotion abundantly.,Love,Pink,Love,Positive
+Love is the most fulfilling emotion eternally.,Love,Pink,Love,Positive
+I envy her effortless beauty and charm.,envy,Green,Envy,Negative
+I begrudge their luxurious lifestyle and endless vacations.,begrudge,Green,Envy,Negative
+I covet their prestigious career and remarkable achievements.,covet,Green,Envy,Negative
+I yearn for their effortless success and abundant wealth.,yearn,Green,Envy,Negative
+I crave their captivating talents and artistic brilliance.,crave,Green,Envy,Negative
+I long for their harmonious relationships and supportive family.,long,Green,Envy,Negative
+I desire their unwavering confidence and unshakeable self-belief.,desire,Green,Envy,Negative
+I resent their seemingly perfect lives and effortless happiness.,resent,Green,Envy,Negative
+I am envious of their carefree spirit and boundless energy.,envious,Green,Envy,Negative
+I covet their jet-setting lifestyle and exotic adventures.,covet,Green,Envy,Negative
+I long for their ability to travel the world and experience different cultures.,long,Green,Envy,Negative
+I envy their courage to pursue their dreams and live life to the fullest.,envy,Green,Envy,Negative
+I crave their zest for life and unwavering optimism.,crave,Green,Envy,Negative
+I resent their easygoing nature and ability to handle stress with grace.,resent,Green,Envy,Negative
+I covet their close-knit group of friends and unwavering support system.,covet,Green,Envy,Negative
+"I envy their ability to connect with people and form deep, meaningful relationships.",envy,Green,Envy,Negative
+I long for their ability to make others feel valued and appreciated.,long,Green,Envy,Negative
+I crave their infectious laughter and ability to bring joy to others.,crave,Green,Envy,Negative
+I resent their seemingly perfect social life and ability to make friends effortlessly.,resent,Green,Envy,Negative
+I covet their ability to light up a room with their presence and charisma.,covet,Green,Envy,Negative
+"I envy their intelligence, wit, and ability to hold engaging conversations.",envy,Green,Envy,Negative
+I long for their ability to learn and retain information with ease.,long,Green,Envy,Negative
+"I crave their creativity and ability to express themselves through art, music, or writing.",crave,Green,Envy,Negative
+I resent their seemingly effortless academic achievements and intellectual prowess.,resent,Green,Envy,Negative
+I covet their ability to solve complex problems and think outside the box.,covet,Green,Envy,Negative
+I envy their physical fitness and athletic prowess.,envy,Green,Envy,Negative
+I long for their healthy lifestyle and ability to maintain a healthy weight.,long,Green,Envy,Negative
+I crave their ability to feel comfortable and confident in their own skin.,crave,Green,Envy,Negative
+I resent their seemingly effortless ability to stay fit and active.,resent,Green,Envy,Negative
+I covet their glowing complexion and radiant beauty.,covet,Green,Envy,Negative
+I envy their sense of style and ability to put together a fashionable outfit.,envy,Green,Envy,Negative
+I long for their ability to express themselves through their clothing choices.,long,Green,Envy,Negative
+I crave their confidence to experiment with different styles and trends.,crave,Green,Envy,Negative
+I resent their seemingly effortless ability to look good in anything they wear.,resent,Green,Envy,Negative
+I covet their ability to accessorize with flair and add a touch of personality to their outfits.,covet,Green,Envy,Negative
+I envy their ability to make a lasting impression with their appearance.,envy,Green,Envy,Negative
+I long for their ability to feel comfortable and stylish in their own skin.,long,Green,Envy,Negative
+I crave their confidence to carry themselves with elegance and grace.,crave,Green,Envy,Negative
+I resent their seemingly effortless ability to always look put-together and polished.,resent,Green,Envy,Negative
+I covet their ability to make a statement with their fashion choices.,covet,Green,Envy,Negative
+I envy their sense of adventure and willingness to step outside their comfort zone.,envy,Green,Envy,Negative
+I long for their courage to try new things and embrace the unknown.,long,Green,Envy,Negative
+I crave their ability to see the world through a different lens and appreciate new experiences.,crave,Green,Envy,Negative
+I resent their seemingly effortless ability to break free from routine and embrace spontaneity.,resent,Green,Envy,Negative
+I covet their ability to find joy in the simple things and appreciate the beauty of the world around them.,covet,Green,Envy,Negative
+I envy their ability to connect with nature and find solace in the wilderness.,envy,Green,Envy,Negative
+I long for their ability to find peace and tranquility in the midst of chaos.,long,Green,Envy,Negative
+I crave their ability to escape the pressures of everyday life and reconnect with themselves.,crave,Green,Envy,Negative
+I resent their seemingly effortless ability to find balance in their lives and make time for what truly matters.,resent,Green,Envy,Negative
+"I covet their ability to create a life that is fulfilling, meaningful, and aligned with their values.",covet,Green,Envy,Negative
+I envy their ability to find happiness from within and cultivate a sense of inner peace.,envy,Green,Envy,Negative
+I long for their ability to appreciate the present moment and savor the good things in life.,long,Green,Envy,Negative
+I crave their ability to radiate positivity and inspire others with their optimism.,crave,Green,Envy,Negative
+I resent their seemingly effortless ability to overcome challenges and maintain a positive outlook on life.,resent,Green,Envy,Negative
+I covet their ability to find gratitude in every situation and focus on the blessings they have.,covet,Green,Envy,Negative
+I envy their ability to spread joy and laughter wherever they go.,envy,Green,Envy,Negative
+I wish I was as lucky as them.,wish,Green,Envy,Negative
+I wish I was as free as them.,wish,Green,Envy,Negative
+I wish I was as confident as them.,wish,Green,Envy,Negative
+I wish I was as charismatic as them.,wish,Green,Envy,Negative
+I wish I was as charming as them.,wish,Green,Envy,Negative
+I wish I was as witty as them.,wish,Green,Envy,Negative
+I wish I was as humorous as them.,wish,Green,Envy,Negative
+I wish I had their sense of style.,wish,Green,Envy,Negative
+I wish I had their taste in music.,wish,Green,Envy,Negative
+I am feeling calm and peaceful.,calm,Light Blue,Calmness,Neutral
+I am feeling serene and tranquil.,serene,Light Blue,Calmness,Neutral
+I am feeling at ease and relaxed.,ease,Light Blue,Calmness,Neutral
+I am feeling cool and composed.,cool,Light Blue,Calmness,Neutral
+I am feeling collected and in control.,control,Light Blue,Calmness,Neutral
+I am feeling at peace with the world.,peace,Light Blue,Calmness,Neutral
+I am feeling at one with myself.,one,Light Blue,Calmness,Neutral
+I am feeling centered and grounded.,centered,Light Blue,Calmness,Neutral
+I am feeling balanced and harmonious.,balanced,Light Blue,Calmness,Neutral
+I am feeling at ease with myself and the world around me.,ease,Light Blue,Calmness,Neutral
+I am feeling calm and at peace in the midst of chaos.,calm,Light Blue,Calmness,Neutral
+I am feeling serene and tranquil even in the face of adversity.,serene,Light Blue,Calmness,Neutral
+I am feeling at ease and relaxed even in the midst of stress.,ease,Light Blue,Calmness,Neutral
+I am feeling cool and composed even in the face of anger.,cool,Light Blue,Calmness,Neutral
+I am feeling collected and in control even in the midst of chaos.,collected,Light Blue,Calmness,Neutral
+I am feeling at peace with the world even in the face of conflict.,peace,Light Blue,Calmness,Neutral
+I am feeling at one with myself even in the face of loneliness.,one,Light Blue,Calmness,Neutral
+I am feeling centered and grounded even in the midst of uncertainty.,centered,Light Blue,Calmness,Neutral
+I am feeling balanced and harmonious even in the face of imbalance.,balanced,Light Blue,Calmness,Neutral
+I am feeling at ease with myself and the world around me even in the midst of challenges.,ease,Light Blue,Calmness,Neutral
+I am feeling calm and peaceful in the midst of nature.,calm,Light Blue,Calmness,Neutral
+I am feeling serene and tranquil in the midst of beauty.,serene,Light Blue,Calmness,Neutral
+I am feeling at ease and relaxed in the midst of comfort.,ease,Light Blue,Calmness,Neutral
+I am feeling cool and composed in the midst of serenity.,cool,Light Blue,Calmness,Neutral
+I am feeling collected and in control in the midst of peace.,collected,Light Blue,Calmness,Neutral
+I am feeling at peace with the world in the midst of harmony.,peace,Light Blue,Calmness,Neutral
+I am feeling at one with myself in the midst of tranquility.,one,Light Blue,Calmness,Neutral
+I am feeling centered and grounded in the midst of balance.,centered,Light Blue,Calmness,Neutral
+I am feeling balanced and harmonious in the midst of ease.,balanced,Light Blue,Calmness,Neutral
+I am feeling at ease with myself and the world around me in the midst of contentment.,ease,Light Blue,Calmness,Neutral
+I am feeling calm and peaceful in the midst of stillness.,calm,Light Blue,Calmness,Neutral
+I am feeling serene and tranquil in the midst of quietness.,serene,Light Blue,Calmness,Neutral
+I am feeling at ease and relaxed in the midst of calmness.,ease,Light Blue,Calmness,Neutral
+I am feeling cool and composed in the midst of serenity.,cool,Light Blue,Calmness,Neutral
+I am feeling collected and in control in the midst of peacefulness.,collected,Light Blue,Calmness,Neutral
+I am feeling at peace with the world in the midst of tranquility.,peace,Light Blue,Calmness,Neutral
+I am feeling at one with myself in the midst of stillness.,one,Light Blue,Calmness,Neutral
+I am feeling centered and grounded in the midst of quietness.,centered,Light Blue,Calmness,Neutral
+I am feeling balanced and harmonious in the midst of calmness.,balanced,Light Blue,Calmness,Neutral
+I am feeling at ease with myself and the world around me in the midst of serenity.,ease,Light Blue,Calmness,Neutral
+I am feeling calm and peaceful in the midst of solitude.,calm,Light Blue,Calmness,Neutral
+I am feeling serene and tranquil in the midst of isolation.,serene,Light Blue,Calmness,Neutral
+I am feeling at ease and relaxed in the midst of loneliness.,ease,Light Blue,Calmness,Neutral
+I am feeling cool and composed in the midst of solitude.,cool,Light Blue,Calmness,Neutral
+I am feeling collected and in control in the midst of isolation.,collected,Light Blue,Calmness,Neutral
+I am feeling at peace with the world in the midst of loneliness.,peace,Light Blue,Calmness,Neutral
+I am feeling at one with myself in the midst of solitude.,one,Light Blue,Calmness,Neutral
+I am feeling centered and grounded in the midst of isolation.,centered,Light Blue,Calmness,Neutral
+I am feeling balanced and harmonious in the midst of loneliness.,balanced,Light Blue,Calmness,Neutral
+I am feeling at ease with myself and the world around me in the midst of solitude.,ease,Light Blue,Calmness,Neutral
+I am feeling calm and peaceful in the midst of silence.,calm,Light Blue,Calmness,Neutral
+I am feeling serene and tranquil in the midst of quietness.,serene,Light Blue,Calmness,Neutral
+I am feeling at ease and relaxed in the midst of stillness.,ease,Light Blue,Calmness,Neutral
+I am feeling cool and composed in the midst of peacefulness.,cool,Light Blue,Calmness,Neutral
+I am feeling collected and in control in the midst of calmness.,collected,Light Blue,Calmness,Neutral
+I am feeling at peace with the world in the midst of tranquility.,peace,Light Blue,Calmness,Neutral
+I am feeling at one with myself in the midst of silence.,one,Light Blue,Calmness,Neutral
+I am feeling centered and grounded in the midst of quietness.,centered,Light Blue,Calmness,Neutral
+I am feeling balanced and harmonious in the midst of calmness.,balanced,Light Blue,Calmness,Neutral
+I am feeling at ease with myself and the world around me in the midst of serenity.,ease,Light Blue,Calmness,Neutral
+I am feeling peaceful and content with my life.,peaceful,Light Blue,Calmness,Neutral
+"I am in a state of tranquility and serenity, even in the face of adversity.",tranquility,Light Blue,Calmness,Neutral
+"I am feeling peaceful and at peace with myself, even in the midst of change.",peaceful,Light Blue,Calmness,Neutral
+"I am in a state of calmness and relaxation, even in the face of uncertainty.",calmness,Light Blue,Calmness,Neutral
+"I am feeling peaceful and content with my life, even with its ups and downs.",peaceful,Light Blue,Calmness,Neutral
+"I am in a state of tranquility and serenity, even in the face of challenges.",tranquility,Light Blue,Calmness,Neutral
+"I am feeling peaceful and at peace with myself, even in the midst of change.",peaceful,Light Blue,Calmness,Neutral
+"I am in a state of calmness and relaxation, even in the face of uncertainty.",calmness,Light Blue,Calmness,Neutral
+"I am feeling peaceful and content with my life, even with its imperfections.",peaceful,Light Blue,Calmness,Neutral
+"I am in a state of tranquility and serenity, even in the face of negativity.",tranquility,Light Blue,Calmness,Neutral
