@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Emotion and Color Prediction</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #ff6d70, #5a70ff);
+            color: #fff;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+        }
+
+        .container {
+            background-color: rgba(255, 255, 255, 0.8);
+            padding: 40px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            width: 500px;
+            text-align: center;
+        }
+
+        h1 {
+            color: #c67777;
+            font-size: 36px;
+            margin-bottom: 20px;
+        }
+
+        form {
+            margin-top: 20px;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: bold;
+            font-size: 18px;
+            color: #333;
+        }
+
+        input {
+            width: calc(100% - 20px);
+            padding: 15px;
+            margin-bottom: 20px;
+            box-sizing: border-box;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            outline: none;
+            font-size: 16px;
+        }
+
+        button {
+            background-color: #ffa726;
+            color: #fff;
+            padding: 15px 30px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 18px;
+            transition: background-color 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        button:hover {
+            background-color: #ff7043;
+        }
+
+        button::before {
+            content: '';
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 200%;
+            height: 200%;
+            background-color: rgba(255, 255, 255, 0.5);
+            border-radius: 50%;
+            transition: all 0.6s ease;
+            transform-origin: center;
+            transform: translate(-50%, -50%) scale(0);
+        }
+
+        button:hover::before {
+            transform: translate(-50%, -50%) scale(3);
+        }
+
+        .result {
+            margin-top: 40px;
+        }
+
+        p.emotion {
+            color: #13050a;  /* Green color for predicted emotion */
+            font-weight: bold;
+            font-size: 24px;
+        }
+
+        p.color {
+            color: #13050a;  /* Red color for predicted color */
+            font-weight: bold;
+            font-size: 24px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Emotion and Color Prediction</h1>
+
+        <form action="/predict" method="post">
+            <label for="sentence">Enter a sentence:</label>
+            <input type="text" id="sentence" name="sentence" value="{{ request.form['sentence'] if request.form['sentence'] }}" required>
+            <button type="submit">Predict</button>
+        </form>
+
+        {% if predicted_emotion and predicted_color %}
+            <div class="result">
+                <p class="emotion">Predicted Emotion: {{ predicted_emotion }}</p>
+                <p class="color">Predicted Color: {{ predicted_color }}</p>
+            </div>
+        {% endif %}
+    </div>
+</body>
+</html>
